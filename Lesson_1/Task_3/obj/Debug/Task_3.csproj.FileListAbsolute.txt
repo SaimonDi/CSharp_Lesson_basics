@@ -1,0 +1,7 @@
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\bin\Debug\Task_3.exe.config
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\bin\Debug\Task_3.exe
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\bin\Debug\Task_3.pdb
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\obj\Debug\Task_3.csprojAssemblyReference.cache
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\obj\Debug\Task_3.exe
+D:\repos\GeekBrains\CSharpLanguage-basics\Lesson_1\Task_3\obj\Debug\Task_3.pdb

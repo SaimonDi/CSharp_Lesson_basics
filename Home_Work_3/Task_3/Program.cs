@@ -149,7 +149,6 @@ namespace Task_3
 
             //rational_1.PrintRatio();
             //rational_2.PrintRatio();
-
             Console.WriteLine("Сложение: " + rational_1.Plus(rational_2).ToString());
             Console.WriteLine("Вычитание: " + rational_1.Minus(rational_2).ToString());
             Console.WriteLine("Умножение: " + rational_1.Multi(rational_2).ToString());

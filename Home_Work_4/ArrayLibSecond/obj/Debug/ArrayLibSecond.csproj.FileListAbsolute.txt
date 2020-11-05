@@ -1,0 +1,6 @@
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\obj\Debug\ArrayLibSecond.csprojAssemblyReference.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\obj\Debug\ArrayLibSecond.csproj.CoreCompileInputs.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\bin\Debug\ArrayLibSecond.dll
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\bin\Debug\ArrayLibSecond.pdb
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\obj\Debug\ArrayLibSecond.dll
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\ArrayLibSecond\obj\Debug\ArrayLibSecond.pdb

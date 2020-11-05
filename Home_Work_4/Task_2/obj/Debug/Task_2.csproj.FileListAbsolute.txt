@@ -1,0 +1,7 @@
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\bin\Debug\Task_2.exe.config
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\bin\Debug\Task_2.exe
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\bin\Debug\Task_2.pdb
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\obj\Debug\Task_2.csprojAssemblyReference.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\obj\Debug\Task_2.csproj.CoreCompileInputs.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\obj\Debug\Task_2.exe
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_2\obj\Debug\Task_2.pdb

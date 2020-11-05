@@ -1,0 +1,10 @@
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\bin\Debug\Task_5.exe.config
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\bin\Debug\Task_5.exe
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\bin\Debug\Task_5.pdb
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\bin\Debug\ArrayLibSecond.dll
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\bin\Debug\ArrayLibSecond.pdb
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\obj\Debug\Task_5.csprojAssemblyReference.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\obj\Debug\Task_5.csproj.CoreCompileInputs.cache
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\obj\Debug\Task_5.csproj.CopyComplete
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\obj\Debug\Task_5.exe
+D:\repos\GeekBrains\CSharp_Lesson_basics_Practics\Home_Work_4\Task_5\obj\Debug\Task_5.pdb

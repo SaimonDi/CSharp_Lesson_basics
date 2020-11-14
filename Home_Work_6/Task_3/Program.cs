@@ -201,34 +201,4 @@ namespace Task_3
         #endregion
         }
 
-    //int fiveCourse = 0;
-    //int sixCourse = 0;
-
-    //List<int> studAge18 = new List<int>();
-    //List<int> studAge19 = new List<int>();
-    //List<int> studAge20 = new List<int>();
-
-    //int cour = int.Parse(s[6]);
-    //int age = int.Parse(s[5]);
-
-    //if(cour == 5) fiveCourse++; if(cour == 6) sixCourse++;
-
-    
-    //if(age == 19 && !studAge19.Contains(cour)) studAge19.Add(cour);
-    //if(age == 20 && !studAge20.Contains(cour)) studAge20.Add(cour);
-
-
-
-    //Console.WriteLine("На 5 курсе:{0}", fiveCourse);
-    //Console.WriteLine("На 6 курсе:{0}", sixCourse);
-
-    
-    //Console.Write($"\r\nВ 19лет учатся на курсах: ");
-    //for(int i = 0; i < studAge19.Count; i++)
-    //    Console.Write($"{studAge19[i]}");
-    //Console.Write($"\r\nВ 20лет учатся на курсах: ");
-    //for(int i = 0; i < studAge20.Count; i++)
-    //    Console.Write($"{studAge20[i]}");
-
-
     }
